@@ -1,0 +1,3 @@
+(dev) C:\Users\James\Desktop\Project 3 backup\Coding>streamlit run interactive_query_app.py
+
+You need to be in your dev branch to manaully run the code. 
