@@ -1,4 +1,4 @@
-# Project3 Data Visualization
+# Project for Interactive Data Visualization
 
 ## Description
 
@@ -11,16 +11,9 @@ This project focuses on various data visualization techniques and tools to analy
 - `scripts/`: Python scripts for data processing and visualization.
 - `results/`: Output files and visualizations generated from the analysis.
 
-## Installation
-
-To get started with the project, clone this repository:
-
-```sh
-git clone https://github.com/Peacoxx/Project3_DataVisualization.git
-
 ------------------------------------------------------------------------
 
-For our project we plan to work with a nutritional Kaggle dataset covering the Nutritional values, including Calories and Micro-nutrients, from six of the largest and most popular fast food restaurants: McDonald's, Burger King, Wendy's, Kentucky Fried Chicken (KFC), Taco Bell, and Pizza Hut.
+For this project I worked with a nutritional Kaggle dataset covering the Nutritional values, including Calories and Micro-nutrients, from six of the largest and most popular fast food restaurants: McDonald's, Burger King, Wendy's, Kentucky Fried Chicken (KFC), Taco Bell, and Pizza Hut.
 It provides data on their food item offerings including Calories, Calories from Fat, Total Fat, Saturated Fat, Trans Fat, Cholesterol, Sodium, Carbs, Fiber, Sugars, Protein, and Weight Watchers Points (where available).
 We plan to look at the dataset in various ways including:
 1.      Whether one restaurant has higher volume of high caloric foods than others
